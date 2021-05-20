@@ -2,7 +2,7 @@
 shell scripts useful for chia plotting and farming
 
 ## plot_stat.sh
-Takes the plotting log files and prints statistics: average ± standard deviation, median, max and min. Times are in seconds.
+Takes the plotting log files and prints statistics: average time ± its standard deviation, median, max and min. Times are in seconds.
 
 ```
 Time for phase 1 : 19316.281±570.085    med 18312.1 max 29210.161 min 12676.675
